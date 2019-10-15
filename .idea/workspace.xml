@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64d12dfa-b649-4025-81d8-d9f3c5e13661" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SDf0aq48n7MMqmgHaR45MjHd0h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Settings.Markdown" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Enum">
+    <configuration name="DoubleCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xulin.singleton.type6.DoubleCheck" />
+      <module name="DesignPattern--Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xulin.singleton.type6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xulin.singleton.type2.Eager" />
+      <module name="DesignPattern--Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xulin.singleton.type2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Enum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xulin.singleton.type8.Enum" />
+      <module name="DesignPattern--Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xulin.singleton.type8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lazy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xulin.singleton.type3.Lazy" />
+      <module name="DesignPattern--Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xulin.singleton.type3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lazy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xulin.singleton.type4.Lazy" />
+      <module name="DesignPattern--Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xulin.singleton.type4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lazy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xulin.singleton.type5.Lazy" />
+      <module name="DesignPattern--Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xulin.singleton.type5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaticInnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xulin.singleton.type7.StaticInnerClass" />
+      <module name="DesignPattern--Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xulin.singleton.type7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Enum" />
+        <item itemvalue="Application.StaticInnerClass" />
+        <item itemvalue="Application.DoubleCheck" />
+        <item itemvalue="Application.Lazy" />
+        <item itemvalue="Application.Lazy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64d12dfa-b649-4025-81d8-d9f3c5e13661" name="Default Changelist" comment="" />
+      <created>1571102865004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571102865004</updated>
+      <workItem from="1571102866301" duration="559000" />
+      <workItem from="1571104143346" duration="403000" />
+      <workItem from="1571104915319" duration="288000" />
+      <workItem from="1571105302900" duration="86000" />
+      <workItem from="1571105406254" duration="28000" />
+      <workItem from="1571105593349" duration="8668000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="484" y="176" width="1012" height="729" key="SettingsEditor" timestamp="1571105027641">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="484" y="176" width="1012" height="729" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1571105027641" />
+  </component>
+</project>
