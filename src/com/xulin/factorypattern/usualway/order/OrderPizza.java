@@ -1,8 +1,8 @@
-package com.xulin.factorypattern.pizzastore.order;
+package com.xulin.factorypattern.usualway.order;
 
-import com.xulin.factorypattern.pizzastore.pizza.CheesePizza;
-import com.xulin.factorypattern.pizzastore.pizza.GreekPizza;
-import com.xulin.factorypattern.pizzastore.pizza.Pizza;
+import com.xulin.factorypattern.usualway.pizza.CheesePizza;
+import com.xulin.factorypattern.usualway.pizza.GreekPizza;
+import com.xulin.factorypattern.usualway.pizza.Pizza;
 
 import java.io.BufferedReader;
 import java.io.IOException;

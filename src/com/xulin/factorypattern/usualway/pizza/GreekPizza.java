@@ -1,4 +1,4 @@
-package com.xulin.factorypattern.pizzastore.pizza;
+package com.xulin.factorypattern.usualway.pizza;
 
 /**
  * @ClassName GreekPizza

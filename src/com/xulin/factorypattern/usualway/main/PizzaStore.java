@@ -1,6 +1,6 @@
-package com.xulin.factorypattern.pizzastore.main;
+package com.xulin.factorypattern.usualway.main;
 
-import com.xulin.factorypattern.pizzastore.order.OrderPizza;
+import com.xulin.factorypattern.usualway.order.OrderPizza;
 
 /**
  * @ClassName PizzaStore
