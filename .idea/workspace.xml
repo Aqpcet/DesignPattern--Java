@@ -1,7 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64d12dfa-b649-4025-81d8-d9f3c5e13661" name="Default Changelist" comment="" />
+    <list default="true" id="64d12dfa-b649-4025-81d8-d9f3c5e13661" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/absfactory/factory/AbsFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/absfactory/factory/BJFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/absfactory/factory/LDFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/absfactory/main/PizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/absfactory/order/OrderPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/absfactory/pizza/BJCheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/absfactory/pizza/BJGreekPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/absfactory/pizza/LDCheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/absfactory/pizza/LDGreekPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/absfactory/pizza/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/factorymethod/main/PizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/factorymethod/order/BJOrderPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/factorymethod/order/LDOrderPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/factorymethod/order/OrderPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/factorymethod/pizza/BJCheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/factorymethod/pizza/BJGreekPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/factorymethod/pizza/LDCheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/factorymethod/pizza/LDGreekPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/factorymethod/pizza/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/pizzastore/main/PizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/pizzastore/order/OrderPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/pizzastore/pizza/CheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/pizzastore/pizza/GreekPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/pizzastore/pizza/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/simplefactory/factory/SimpleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/simplefactory/main/PizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/simplefactory/order/OrderPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/simplefactory/pizza/CheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/simplefactory/pizza/GreekPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/simplefactory/pizza/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/工厂模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/工厂模式类图/absfactory.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/工厂模式类图/factorymethod.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/工厂模式类图/pizzastore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/工厂模式类图/simplefactory.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/singleton/type1/Eager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/singletonpattern/type1/Eager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/singleton/type2/Eager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/singletonpattern/type2/Eager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/singleton/type3/Lazy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/singletonpattern/type3/Lazy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/singleton/type4/Lazy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/singletonpattern/type4/Lazy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/singleton/type5/Lazy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/singletonpattern/type5/Lazy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/singleton/type6/DoubleCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/singletonpattern/type6/DoubleCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/singleton/type7/StaticInnerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/singletonpattern/type7/StaticInnerClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/singleton/type8/Enum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/singletonpattern/type8/Enum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/singleton/单例模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/singletonpattern/单例模式.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,24 +58,45 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1SDf0aq48n7MMqmgHaR45MjHd0h" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xulin/factorypattern" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="Settings.Markdown" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xulin.factory.factorymethod.pizzastore.order" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/xulin/factorypattern" />
+      <recent name="$PROJECT_DIR$/src/com/xulin/factory/absfactory/pizza" />
+      <recent name="$PROJECT_DIR$/src/com/xulin/factory/hh" />
+      <recent name="$PROJECT_DIR$/src/com/xulin/factory/factorymethod/pizzastore/pizza" />
+      <recent name="$PROJECT_DIR$/src/com/xulin/factory/factorymethod/pizzastore" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -42,52 +110,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Enum">
-    <configuration name="DoubleCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xulin.singleton.type6.DoubleCheck" />
-      <module name="DesignPattern--Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xulin.singleton.type6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Eager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xulin.singleton.type2.Eager" />
-      <module name="DesignPattern--Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xulin.singleton.type2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PizzaStore (3)">
     <configuration name="Enum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xulin.singleton.type8.Enum" />
+      <option name="MAIN_CLASS_NAME" value="com.xulin.singletonpattern.type8.Enum" />
       <module name="DesignPattern--Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xulin.singleton.type8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lazy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xulin.singleton.type3.Lazy" />
-      <module name="DesignPattern--Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xulin.singleton.type3.*" />
+          <option name="PATTERN" value="com.xulin.singletonpattern.type8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +150,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticInnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xulin.singleton.type7.StaticInnerClass" />
+    <configuration name="PizzaStore (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xulin.factorypattern.absfactory.main.PizzaStore" />
       <module name="DesignPattern--Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xulin.singleton.type7.*" />
+          <option name="PATTERN" value="com.xulin.factorypattern.absfactory.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PizzaStore (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xulin.factory.hh.pizzastore.order.PizzaStore" />
+      <module name="DesignPattern--Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xulin.factory.hh.pizzastore.order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PizzaStore (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xulin.factorypattern.pizzastore.main.PizzaStore" />
+      <module name="DesignPattern--Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xulin.factorypattern.pizzastore.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PizzaStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xulin.factorypattern.factorymethod.pizzastore.main.PizzaStore" />
+      <module name="DesignPattern--Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xulin.factorypattern.factorymethod.pizzastore.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaticInnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xulin.singletonpattern.type7.StaticInnerClass" />
+      <module name="DesignPattern--Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xulin.singletonpattern.type7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +217,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PizzaStore (3)" />
+        <item itemvalue="Application.PizzaStore (1)" />
         <item itemvalue="Application.Enum" />
-        <item itemvalue="Application.StaticInnerClass" />
-        <item itemvalue="Application.DoubleCheck" />
-        <item itemvalue="Application.Lazy" />
-        <item itemvalue="Application.Lazy" />
+        <item itemvalue="Application.PizzaStore (1)" />
+        <item itemvalue="Application.PizzaStore (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -160,11 +241,29 @@
       <workItem from="1571105302900" duration="86000" />
       <workItem from="1571105406254" duration="28000" />
       <workItem from="1571105593349" duration="8668000" />
+      <workItem from="1571194740733" duration="305000" />
+      <workItem from="1571195427407" duration="1491000" />
+      <workItem from="1571234190105" duration="5658000" />
+      <workItem from="1571320629404" duration="137000" />
+      <workItem from="1571320793071" duration="14743000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="484" y="176" width="1012" height="729" key="SettingsEditor" timestamp="1571105027641">
