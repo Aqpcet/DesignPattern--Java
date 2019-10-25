@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DesignPattern--Java.iml" filepath="$PROJECT_DIR$/DesignPattern--Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/cglib/cglib.iml" filepath="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/cglib/cglib.iml" />
     </modules>
   </component>
 </project>
