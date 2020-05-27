@@ -1,42 +1,145 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="64d12dfa-b649-4025-81d8-d9f3c5e13661" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xulin/adapterpattern/classadapter/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xulin/adapterpattern/classadapter/IValtage5V.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xulin/adapterpattern/classadapter/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xulin/adapterpattern/classadapter/Voltage220V.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xulin/adapterpattern/classadapter/VoltageAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xulin/adapterpattern/interfaceadapter/AbsAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xulin/adapterpattern/interfaceadapter/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xulin/adapterpattern/interfaceadapter/Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xulin/adapterpattern/objectadapter/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xulin/adapterpattern/objectadapter/IValtage5V.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xulin/adapterpattern/objectadapter/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xulin/adapterpattern/objectadapter/Voltage220V.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xulin/adapterpattern/objectadapter/VoltageAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/cglib/cglib.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/cglib/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/cglib/src/main/java/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/cglib/src/main/java/ProxyFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/cglib/src/main/java/TeacherDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/jdk/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/jdk/ITeacherDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/jdk/ProxyFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/jdk/TeacherDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xulin/proxypattern/staticproxy/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xulin/proxypattern/staticproxy/ITeacherDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xulin/proxypattern/staticproxy/TeacherDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xulin/proxypattern/staticproxy/TeacherDaoProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/iteratorpattern/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/iteratorpattern/College.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/iteratorpattern/ComputerCollege.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/iteratorpattern/ComputerCollegeIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/iteratorpattern/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/iteratorpattern/InfoCollege.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/iteratorpattern/InfoCollegeIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xulin/iteratorpattern/OutPutImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_3_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_3_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_7_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_7_1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DesignPattern--Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern--Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/adapterpattern/classadapter/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/adapterpattern/classadapter/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/adapterpattern/classadapter/IValtage5V.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/adapterpattern/classadapter/IValtage5V.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/adapterpattern/classadapter/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/adapterpattern/classadapter/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/adapterpattern/classadapter/Voltage220V.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/adapterpattern/classadapter/Voltage220V.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/adapterpattern/classadapter/VoltageAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/adapterpattern/classadapter/VoltageAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/adapterpattern/interfaceadapter/AbsAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/adapterpattern/interfaceadapter/AbsAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/adapterpattern/interfaceadapter/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/adapterpattern/interfaceadapter/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/adapterpattern/interfaceadapter/Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/adapterpattern/interfaceadapter/Interface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/adapterpattern/objectadapter/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/adapterpattern/objectadapter/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/adapterpattern/objectadapter/IValtage5V.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/adapterpattern/objectadapter/IValtage5V.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/adapterpattern/objectadapter/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/adapterpattern/objectadapter/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/adapterpattern/objectadapter/Voltage220V.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/adapterpattern/objectadapter/Voltage220V.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/adapterpattern/objectadapter/VoltageAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/adapterpattern/objectadapter/VoltageAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/builderpattern/builder/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/builderpattern/builder/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/builderpattern/builder/CommonHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/builderpattern/builder/CommonHouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/builderpattern/builder/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/builderpattern/builder/House.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/builderpattern/builder/HouseBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/builderpattern/builder/HouseBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/builderpattern/builder/HouseDirector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/builderpattern/builder/HouseDirector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/builderpattern/usualway/AbsHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/builderpattern/usualway/AbsHouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/builderpattern/usualway/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/builderpattern/usualway/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/builderpattern/usualway/CommonHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/builderpattern/usualway/CommonHouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/builderpattern/建造者模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/builderpattern/建造者模式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/builderpattern/建造者模式类图/StringBuilder建造者模式.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/builderpattern/建造者模式类图/StringBuilder建造者模式.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/builderpattern/建造者模式类图/builder.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/builderpattern/建造者模式类图/builder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/builderpattern/建造者模式类图/usualway.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/builderpattern/建造者模式类图/usualway.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/builderpattern/建造者模式类图/建造者模式原理类图.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/builderpattern/建造者模式类图/建造者模式原理类图.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/absfactory/factory/AbsFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/absfactory/factory/AbsFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/absfactory/factory/BJFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/absfactory/factory/BJFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/absfactory/factory/LDFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/absfactory/factory/LDFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/absfactory/main/PizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/absfactory/main/PizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/absfactory/order/OrderPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/absfactory/order/OrderPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/absfactory/pizza/BJCheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/absfactory/pizza/BJCheesePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/absfactory/pizza/BJGreekPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/absfactory/pizza/BJGreekPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/absfactory/pizza/LDCheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/absfactory/pizza/LDCheesePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/absfactory/pizza/LDGreekPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/absfactory/pizza/LDGreekPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/absfactory/pizza/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/absfactory/pizza/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/factorymethod/main/PizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/factorymethod/main/PizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/factorymethod/order/BJOrderPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/factorymethod/order/BJOrderPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/factorymethod/order/LDOrderPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/factorymethod/order/LDOrderPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/factorymethod/order/OrderPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/factorymethod/order/OrderPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/factorymethod/pizza/BJCheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/factorymethod/pizza/BJCheesePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/factorymethod/pizza/BJGreekPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/factorymethod/pizza/BJGreekPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/factorymethod/pizza/LDCheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/factorymethod/pizza/LDCheesePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/factorymethod/pizza/LDGreekPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/factorymethod/pizza/LDGreekPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/factorymethod/pizza/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/factorymethod/pizza/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/simplefactory/factory/SimpleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/simplefactory/factory/SimpleFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/simplefactory/main/PizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/simplefactory/main/PizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/simplefactory/order/OrderPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/simplefactory/order/OrderPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/simplefactory/pizza/CheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/simplefactory/pizza/CheesePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/simplefactory/pizza/GreekPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/simplefactory/pizza/GreekPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/simplefactory/pizza/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/simplefactory/pizza/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/usualway/main/PizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/usualway/main/PizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/usualway/order/OrderPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/usualway/order/OrderPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/usualway/pizza/CheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/usualway/pizza/CheesePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/usualway/pizza/GreekPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/usualway/pizza/GreekPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/usualway/pizza/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/usualway/pizza/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/工厂模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/工厂模式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/工厂模式类图/absfactory.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/工厂模式类图/absfactory.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/工厂模式类图/factorymethod.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/工厂模式类图/factorymethod.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/工厂模式类图/pizzastore.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/工厂模式类图/pizzastore.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/factorypattern/工厂模式类图/simplefactory.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/factorypattern/工厂模式类图/simplefactory.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/prototypepattern/deepclone/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/prototypepattern/deepclone/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/prototypepattern/deepclone/DeepCloneableTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/prototypepattern/deepclone/DeepCloneableTarget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/prototypepattern/deepclone/DeepProtoType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/prototypepattern/deepclone/DeepProtoType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/prototypepattern/shallowclone/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/prototypepattern/shallowclone/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/prototypepattern/shallowclone/Sheep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/prototypepattern/shallowclone/Sheep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/prototypepattern/usualway/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/prototypepattern/usualway/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/prototypepattern/usualway/Sheep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/prototypepattern/usualway/Sheep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/prototypepattern/原型模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/prototypepattern/原型模式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/prototypepattern/原型模式类图/Spring框架中bean的原型模式应用.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/prototypepattern/原型模式类图/Spring框架中bean的原型模式应用.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/prototypepattern/原型模式类图/deepclone.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/prototypepattern/原型模式类图/deepclone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/prototypepattern/原型模式类图/shallowclone.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/prototypepattern/原型模式类图/shallowclone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/prototypepattern/原型模式类图/usualway.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/prototypepattern/原型模式类图/usualway.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/prototypepattern/原型模式类图/原型模式原理结构图.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/prototypepattern/原型模式类图/原型模式原理结构图.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/cglib/cglib.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/cglib/cglib.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/cglib/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/cglib/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/cglib/src/main/java/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/cglib/src/main/java/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/cglib/src/main/java/ProxyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/cglib/src/main/java/ProxyFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/cglib/src/main/java/TeacherDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/cglib/src/main/java/TeacherDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/cglib/target/classes/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/cglib/target/classes/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/cglib/target/classes/ProxyFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/cglib/target/classes/ProxyFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/cglib/target/classes/TeacherDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/cglib/target/classes/TeacherDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/jdk/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/jdk/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/jdk/ITeacherDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/jdk/ITeacherDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/jdk/ProxyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/jdk/ProxyFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/jdk/TeacherDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/jdk/TeacherDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/proxypattern/staticproxy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/proxypattern/staticproxy/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/proxypattern/staticproxy/ITeacherDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/proxypattern/staticproxy/ITeacherDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/proxypattern/staticproxy/TeacherDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/proxypattern/staticproxy/TeacherDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/proxypattern/staticproxy/TeacherDaoProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/proxypattern/staticproxy/TeacherDaoProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/singletonpattern/type1/Eager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/singletonpattern/type1/Eager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/singletonpattern/type2/Eager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/singletonpattern/type2/Eager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/singletonpattern/type3/Lazy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/singletonpattern/type3/Lazy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/singletonpattern/type4/Lazy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/singletonpattern/type4/Lazy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/singletonpattern/type5/Lazy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/singletonpattern/type5/Lazy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/singletonpattern/type6/DoubleCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/singletonpattern/type6/DoubleCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/singletonpattern/type7/StaticInnerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/singletonpattern/type7/StaticInnerClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/singletonpattern/type8/Enum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/singletonpattern/type8/Enum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xulin/singletonpattern/单例模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xulin/singletonpattern/单例模式.md" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,33 +157,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="ProjectId" id="1SDf0aq48n7MMqmgHaR45MjHd0h" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xulin/proxypattern/dynamicproxy/cglib" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -102,19 +199,7 @@
       <recent name="$PROJECT_DIR$/src/com/xulin/prototypepattern" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Client (3)">
+  <component name="RunManager" selected="Application.Eager">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xulin.proxypattern.dynamicproxy.jdk.Client" />
       <module name="DesignPattern--Java" />
@@ -148,12 +233,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xulin.adapterpattern.classadapter.Client" />
+    <configuration name="Client (6)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xulin.iteratorpattern.Client" />
       <module name="DesignPattern--Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xulin.adapterpattern.classadapter.*" />
+          <option name="PATTERN" value="com.xulin.iteratorpattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,38 +246,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xulin.adapterpattern.interfaceadapter.Client" />
+    <configuration name="Eager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xulin.singletonpattern.type1.Eager" />
       <module name="DesignPattern--Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xulin.adapterpattern.interfaceadapter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xulin.proxypattern.staticproxy.Client" />
-      <module name="DesignPattern--Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xulin.proxypattern.staticproxy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xulin.prototypepattern.shallowclone.Client" />
-      <module name="DesignPattern--Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xulin.prototypepattern.shallowclone.*" />
+          <option name="PATTERN" value="com.xulin.singletonpattern.type1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,11 +261,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Eager" />
+        <item itemvalue="Application.Client (6)" />
+        <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client (3)" />
-        <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client (2)" />
-        <item itemvalue="Application.Client (1)" />
-        <item itemvalue="Application.Client (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -244,11 +303,16 @@
       <workItem from="1571921287684" duration="9000" />
       <workItem from="1571967123199" duration="7482000" />
       <workItem from="1571974845037" duration="3205000" />
+      <workItem from="1589463992413" duration="769000" />
+      <workItem from="1589551387797" duration="4374000" />
+      <workItem from="1590489399384" duration="518000" />
+      <workItem from="1590489932321" duration="171000" />
+      <workItem from="1590556565995" duration="1206000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -280,23 +344,58 @@
         </entry>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-    <option name="OPEN_TABS">
-      <set>
-        <option value="1" />
-      </set>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="484" y="176" width="1012" height="729" key="SettingsEditor" timestamp="1571105027641">
+    <state x="768" y="217" width="376" height="640" key="#com.intellij.ide.util.MemberChooser" timestamp="1589585948726">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="484" y="176" width="1012" height="729" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1571105027641" />
+    <state x="768" y="217" width="376" height="640" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1589585948726" />
+    <state width="1858" height="260" key="GridCell.Tab.0.bottom" timestamp="1590490103027">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="260" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1590490103027" />
+    <state width="1858" height="260" key="GridCell.Tab.0.center" timestamp="1590490103026">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="260" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1590490103026" />
+    <state width="1858" height="260" key="GridCell.Tab.0.left" timestamp="1590490103026">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="260" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1590490103026" />
+    <state width="1858" height="260" key="GridCell.Tab.0.right" timestamp="1590490103026">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="260" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1590490103026" />
+    <state width="1876" height="346" key="GridCell.Tab.1.bottom" timestamp="1589464769703">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="346" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1589464769703" />
+    <state width="1876" height="346" key="GridCell.Tab.1.center" timestamp="1589464769703">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="346" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1589464769703" />
+    <state width="1876" height="346" key="GridCell.Tab.1.left" timestamp="1589464769703">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="346" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1589464769703" />
+    <state width="1876" height="346" key="GridCell.Tab.1.right" timestamp="1589464769703">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="346" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1589464769703" />
+    <state x="373" y="31" key="SettingsEditor" timestamp="1590490096958">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="373" y="31" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1590490096958" />
   </component>
 </project>
